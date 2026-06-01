@@ -3,7 +3,7 @@ name: Simple Workflow
 
 run-name: Run of the simple workflow
 
-on:
+"on":
   # Workflow run trigger events
   push:
     branches: ["main"]
